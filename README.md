@@ -1,4 +1,5 @@
-# K8sAutoPilo-AI-Driven-Failure-Prediction-for-Kubernetes
+# K8sAutoPilo
+AI-Driven-Failure-Prediction-for-Kubernetes
 
 Overview
 K8sAutoPilo is an AI-driven failure prediction system for Kubernetes clusters. It leverages Prometheus for real-time data generation, a Random Forest model trained on historical failure datasets (generated via LitmusChaos), and predictive analytics to proactively identify potential failures.
